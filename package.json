@@ -1,0 +1,30 @@
+{
+  "name": "openai-whisper-alternative",
+  "version": "1.0.0",
+  "description": "An unofficial Node.js package for interacting with OpenAI Whisper - Favour Chukwuedo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.4.1",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "openai",
+    "whisper",
+    "websocket",
+    "api"
+  ],
+  "author": "Favour Chukwuedo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "private": false,
+  "files": [
+    ".env",
+    "index.js"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "openai-whisper-alternative",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An unofficial Node.js package for interacting with OpenAI Whisper - Favour Chukwuedo",
   "main": "index.js",
   "scripts": {
